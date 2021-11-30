@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hou-dev/Javascript-Course-Challenges/issues"
   },
-  "homepage": "https://github.com/Hou-dev/Javascript-Course-Challenges#readme"
+  "homepage": "https://github.com/Hou-dev/Javascript-Course-Challenges#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
 }
